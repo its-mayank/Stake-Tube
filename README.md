@@ -16,7 +16,7 @@ Let us understand the platform in some simple steps:
 3. The content would be accessed through IPFS(InterPlanetary File System), a peer-to-peer method of storing and sharing hypermedia in a distributed file system.
 4. The content creator gets half of every investment made by a user, while the other half is distributed among the investors before that user, such that the early viewers have a more significant stake than the later investors.
 
-![Credits- dhruv0000](https://github.com/its-mayank/Stake_Tube/image1.jpg)
+![Credits- dhruv0000](https://github.com/its-mayank/Stake_Tube/image1.png)
 
 
 ## Challenges that were faced
